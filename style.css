@@ -304,7 +304,7 @@ letter-spacing: 2px;
 .contactForm .row100 textarea{
     position : relative;
     border: none;
-    border-bottom: 1px solid rgba(255,255,255,0.4);
+    border-bottom: 1px solid #fff;
     color : #fff;
     background: transparent;
     width: 100%;
@@ -315,6 +315,7 @@ letter-spacing: 2px;
     margin : 20px 0;
     resize: none;
 }
+
 .contactForm .row100 textarea{
     height: 100px;
 }
@@ -358,3 +359,4 @@ margin : 0 30px;
   .copyright a{
       color: #fff;
   }
+  
